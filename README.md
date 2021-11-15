@@ -3,11 +3,10 @@
 
 # 1. 팀원명 - 우리 팀원 중에 버스 기사 있나요?
 
-[팀원명](https://www.notion.so/6303383d94124416a1e9bad5c55e2235)
+[팀원 ](https://www.notion.so/6303383d94124416a1e9bad5c55e2235)
 
 # 2. 개발 일정
 
-[주제 선정 회의 및 자료 조사](https://www.notion.so/47feacaed4bd48819a19fdf2bfdd5e36)
 
 # 3. README
 
