@@ -52,7 +52,7 @@
 # 4. 구현 및 시현 test
 
 - [https://youtu.be/AoDKj5wpGWs](https://youtu.be/AoDKj5wpGWs)
-- 
+
 # 5. 참고 문헌 링크
 
 - cv2 실시간 촬영 바로 저장
@@ -63,13 +63,15 @@ https://deep-learning-study.tistory.com/108
 
 https://towardsdatascience.com/how-to-display-video-streaming-from-a-webcam-using-flask-7a15e26fbab8
 
-[SeoJinHyuk14/facialExpression: 머신러닝을 이용한 얼굴인식 및 표정분류 (github.com)](https://github.com/SeoJinHyuk14/facialExpression)- 얼굴인식, 표정분류(실시간은 불분명), 플라스크를 활용한 웹서버 구현 방식 참고?
+- 얼굴인식, 표정분류(실시간은 불분명), 플라스크를 활용한 웹서버 구현 방식 참고
+- 
+[SeoJinHyuk14/facialExpression: 머신러닝을 이용한 얼굴인식 및 표정분류 (github.com)](https://github.com/SeoJinHyuk14/facialExpression)
 
 - 영상데이터가 있을 때 감정 표현 제시 코드
 
 [https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff)
 
-- 
+- 실시간 나이 감정 분석 opencv 활용해서
 
 [Real-time Age, Gender and Emotion Prediction from Webcam with Keras and OpenCV | by Sun Weiran | Towards Data Science](https://towardsdatascience.com/real-time-age-gender-and-emotion-prediction-from-webcam-with-keras-and-opencv-bde6220d60a)
 
