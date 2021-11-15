@@ -47,6 +47,10 @@
 - 녹화 종료 후 , 저장된 동영상이 있다면 분석 진행
 - 표 그래프 분석 완료 동영상이 output 폴더에 자동 업로드
 
+# 4. 구현 및 시현 test
+
+- [https://youtu.be/AoDKj5wpGWs](https://youtu.be/AoDKj5wpGWs)
+- 
 # 5. 참고 문헌 링크
 
 - cv2 실시간 촬영 바로 저장
