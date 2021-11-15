@@ -39,7 +39,7 @@
 - 실행 시 실시간 웹캠 촬영
 - 모델은 바로 작동하여 현재 얼굴 촬영 후 분석 진행
 
-2-2. video_analyze_main.ipynb 
+### 2-2. video_analyze_main.ipynb 
 
 - 실행 시 프로그램 작동 시작
 - REC 버튼 클릭 시 지금 모습을 실시간 녹화
