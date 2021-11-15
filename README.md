@@ -16,23 +16,23 @@
 
 -src
 
-  -output    # 모델 분석 결과 폴더 - 영상, 이미지, 분석 결과 그래프, 면접 평가 점수 나온다.
+  output    # 모델 분석 결과 폴더 - 영상, 이미지, 분석 결과 그래프, 면접 평가 점수 나온다.
 
-  -SaveVideo.mp4 # 촬영된 비디오 test data
+  SaveVideo.mp4 # 촬영된 비디오 test data
 
-  -_mini_XCEPTION.102-0.66.hdf5 # 이미지 감정 학습 모델
+ _mini_XCEPTION.102-0.66.hdf5 # 이미지 감정 학습 모델
 
-  -a.png # 사용 이미지
+  a.png # 사용 이미지
 
-  -b.png # 사용 이미지
+  b.png # 사용 이미지
 
-  -data.csv # 분석 결과 표 
+  data.csv # 분석 결과 표 
 
-  -haarcascade_frontalface_default.xml # 모델 사용 전면 인식
+  haarcascade_frontalface_default.xml # 모델 사용 전면 인식
 
-  -realtime_final.ipynb # 실시간 웹캠 인지 모델 
+  realtime_final.ipynb # 실시간 웹캠 인지 모델 
 
-  -video_analyze_main.ipynb # 촬영된 비디오 분석 모델 
+  video_analyze_main.ipynb # 촬영된 비디오 분석 모델 
 
 ## #2. model intruction
 
