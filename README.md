@@ -14,7 +14,7 @@
 ## #1. structure
 - presentation # 프로젝트 설명 & 요약 
 
--src
+/src
 
   output    # 모델 분석 결과 폴더 - 영상, 이미지, 분석 결과 그래프, 면접 평가 점수 나온다.
 
