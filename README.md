@@ -64,7 +64,7 @@ https://deep-learning-study.tistory.com/108
 https://towardsdatascience.com/how-to-display-video-streaming-from-a-webcam-using-flask-7a15e26fbab8
 
 - 얼굴인식, 표정분류(실시간은 불분명), 플라스크를 활용한 웹서버 구현 방식 참고
-- 
+
 [SeoJinHyuk14/facialExpression: 머신러닝을 이용한 얼굴인식 및 표정분류 (github.com)](https://github.com/SeoJinHyuk14/facialExpression)
 
 - 영상데이터가 있을 때 감정 표현 제시 코드
